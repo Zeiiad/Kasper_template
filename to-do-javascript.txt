@@ -1,0 +1,6 @@
+1- header: toggle menu
+2- landing section: background image changing
+3- portfolio section
+
+
+** small screens in video
